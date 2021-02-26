@@ -2,7 +2,7 @@
 title: Brain Computer Interfaces, Presenting the Enhanced Multimodal Fusion.
 
 event: Seminario IA invierno GIARA
-event_url: https://example.org
+#event_url: https://example.org
 
 summary: Presenting the EMF for BCI systems, and the topic itself to newcomers. 
 
@@ -25,11 +25,7 @@ image:
   caption: 'Image credit: [**Unsplash**](media/BCISeminario.pdf)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
 url_code: ""
 url_pdf: ""
 url_slides: "media/BCISeminario.pdf"
@@ -43,3 +39,5 @@ url_video: ""
 slides: example
 
 ---
+
+{{% staticref "media/BCISeminario.pdf" "newtab" %}}Not supporting Markdown, download here{{% /staticref %}}
