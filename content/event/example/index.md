@@ -22,7 +22,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](media/BCISeminario.pdf)'
+  caption: 'Image credit: [**Unsplash**](https://github.com/Fuminides/my-academic/blob/master/static/media/bci.png?raw=true)'
   focal_point: Right
 
 # links:
