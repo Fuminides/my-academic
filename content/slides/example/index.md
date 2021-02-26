@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: Brain Computer Interfaces: Enhanced Multimodal Fusion.
+summary: Brain Computer Interfaces, Presenting the Enhanced Multimodal Fusion.
 authors: []
 tags: []
 categories: []
@@ -13,4 +13,4 @@ slides:
   highlight_style: dracula
 ---
 
-{{% staticref "BCI Seminario.pdf" "newtab" %}}Slides in PDF (spanish) {{% /staticref %}}
+{{% staticref "media/BCISeminario.pdf" "newtab" %}}Download my CV{{% /staticref %}}
