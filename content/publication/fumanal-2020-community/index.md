@@ -5,7 +5,7 @@ publishDate: 2021-02-26T19:08:05.889991Z
 authors: ["Javier Fumanal-Idocin", "A Alonso-Betanzos", "O Cordón", "H Bustince", "M Minárová"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Future Generation Computer Systems*"
 ---
 
