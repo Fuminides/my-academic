@@ -11,7 +11,7 @@ role: PhD Student in Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Universidad Pública de Navarra
-  url: https://www.stanford.edu/
+  url: https://www.unavarra.es/portada
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fuzzy logic and systems, brain computer interfaces and social network analysis.
@@ -20,7 +20,7 @@ bio: My research interests include fuzzy logic and systems, brain computer inter
 interests:
 - Artificial Intelligence
 - Computational Linguistics
--Brain Computer Interfaces
+- Brain Computer Interfaces
 - Fuzzy Logic
 
 # Education to show in About widget
