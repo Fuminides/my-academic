@@ -13,4 +13,4 @@ slides:
   highlight_style: dracula
 ---
 
-{{% staticref "media/BCISeminario.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "media/BCISeminario.pdf" "newtab" %}}Not supporting Markdown, download here{{% /staticref %}}
