@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links: ""
-url_code: "https://github.com/Fuminides/Fancy_aggregations"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -26,4 +26,6 @@ url_video: ""
 slides: ""
 ---
 
-Fancy aggregations is a collection of aggregation functions implemented in Python, that covers different fuzzy integrals, overlaps, OWA, t-norms, etc. Some aggregation for intervals are also present. Designed to work with numpy mostly, and some with tensorflow .
+Fancy aggregations is a collection of aggregation functions implemented in Python, that covers different fuzzy integrals, overlaps, OWA, t-norms, etc. Some aggregation for intervals are also present. Designed to work with numpy mostly, and some with tensorflow.
+
+Link: https://github.com/Fuminides/Fancy_aggregations
