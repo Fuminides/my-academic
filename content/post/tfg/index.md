@@ -56,3 +56,4 @@ sugerencias crees que harían la guía más persuasiva,
 para futuros alumnos
 que también estén necesitados.
 
+{{% staticref "media/doca/Guia_TFG_v101.pdf" "newtab" %}}Descárgala aquí/download here{{% /staticref %}}
