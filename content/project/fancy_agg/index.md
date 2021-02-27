@@ -23,7 +23,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "
+slides: ""
 ---
 
 Fancy aggregations is a collection of aggregation functions implemented in Python, that covers different fuzzy integrals, overlaps, OWA, t-norms, etc. Some aggregation for intervals are also present. Designed to work with numpy mostly, and some with tensorflow .

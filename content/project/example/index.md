@@ -23,7 +23,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "
+slides: ""
 ---
 
 Athena is a project to make publicly available all the BCI experiments performed in my lab. It is just getting started so we really could use a hand.
