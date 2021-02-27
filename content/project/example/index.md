@@ -12,8 +12,8 @@ image:
   caption: Athena Logo
   focal_point: Smart
 
-links: ""
-url_code: "https://github.com/Fuminides/athena"
+links: "https://github.com/Fuminides/athena"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -29,3 +29,5 @@ slides: ""
 Athena is a project to make publicly available all the BCI experiments performed in my lab. It is just getting started so we really could use a hand.
 
 For now it's only been anecdotically tested so many hours are still ahead of us to get a really reliable library.
+
+https://github.com/Fuminides/athena
