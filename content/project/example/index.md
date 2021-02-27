@@ -12,7 +12,7 @@ image:
   caption: Athena Logo
   focal_point: Smart
 
-links: "https://github.com/Fuminides/athena"
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
