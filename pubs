@@ -1,0 +1,63 @@
+@inproceedings{armentia2019gravitational,
+  title={Gravitational clustering algorithm generalization by using an aggregation of masses in newton law},
+  author={Armentia, J and Rodr{\'\i}guez, Iosu and Idocin, J Fumanal and Bustince, Humberto and Min{\'a}rov{\'a}, Maria and Jurio, Aranzazu},
+  booktitle={International Summer School on Aggregation Operators},
+  pages={172--182},
+  year={2019},
+  organization={Springer, Cham}
+}
+
+@inproceedings{takavc2019distances,
+  title={Distances between Interval-valued Fuzzy Sets Taking into Account the Width of the Intervals},
+  author={Tak{\'a}{\v{c}}, Zdenko and Fernandez, Javier and Fumanal, Javier and Marco-Detchart, Cedric and Couso, In{\'e}s and Dimuro, Gra{\c{c}}aliz and Santos, H{\'e}lida and Bustince, Humberto},
+  booktitle={2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{fumanal2020community,
+  title={Community detection and social network analysis based on the Italian wars of the 15th century},
+  author={Fumanal-Idocin, Javier and Alonso-Betanzos, Amparo and Cord{\'o}n, Oscar and Bustince, Humberto and Min{\'a}rov{\'a}, Maria},
+  journal={Future Generation Computer Systems},
+  volume={113},
+  pages={25--40},
+  year={2020},
+  publisher={North-Holland}
+}
+
+@article{bardozzo2021sugeno,
+  title={Sugeno integral generalization applied to improve adaptive image binarization},
+  author={Bardozzo, Francesco and De La Osa, Borja and Horansk{\'a}, L'ubom{\'\i}ra and Fumanal-Idocin, Javier and delli Priscoli, Mattia and Troiano, Luigi and Tagliaferri, Roberto and Fernandez, Javier and Bustince, Humberto},
+  journal={Information Fusion},
+  volume={68},
+  pages={37--45},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{fumanal2021interval,
+  title={Interval-valued aggregation functions based on moderate deviations applied to Motor-Imagery-Based Brain Computer Interface},
+  author={Fumanal-Idocin, Javier and Takac, Zdenko and Fernandez, Javier and Sanz, Jose Antonio and Goyena, Harkaitz and Lin, Chin-Teng and Wang, Yukai and Bustince, Humberto},
+  journal={IEEE Transactions on Fuzzy Systems},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{papvco2021fusion,
+  title={A fusion method for multi-valued data},
+  author={Pap{\v{c}}o, Martin and Rodr{\'\i}guez-Mart{\'\i}nez, Iosu and Fumanal-Idocin, Javier and Altalhi, Abdulrahman H and Bustince, Humberto},
+  journal={Information Fusion},
+  volume={71},
+  pages={1--10},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{fumanal2021motor,
+  title={Motor-Imagery-Based Brain-Computer Interface Using Signal Derivation and Aggregation Functions},
+  author={Fumanal-Idocin, Javier and Wang, Yu-Kai and Lin, Chin-Teng and Fern{\'a}ndez, Javier and Sanz, Jos{\'e} Antonio and Bustince, Humberto},
+  journal={IEEE Transactions on Cybernetics},
+  year={2021},
+  publisher={IEEE}
+}
