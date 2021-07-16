@@ -6,6 +6,6 @@ authors: ["Javier Fumanal-Idocin", "Yu-Kai Wang", "Chin-Teng Lin", "Javier Fern√
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*arXiv preprint arXiv:2101.06968*"
+publication: "*IEEE Transactions on Cybernetics*"
 ---
 
