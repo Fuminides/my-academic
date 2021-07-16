@@ -71,4 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Javier Fumanal Idocin is a researcher of artificial intelligence at the Grupo de Inteligencia Artificial Razonamiento Aproximado (GIARA) in the Universidad Pública de Navarra. His research interests include fuzzy logic, social networks, brain computer interfaces and neural networks. He is currently working in his PhD thesis.
+I am a researcher of artificial intelligence at the Grupo de Inteligencia Artificial Razonamiento Aproximado (GIARA) in the Universidad Pública de Navarra. My research interests include fuzzy logic, social networks, brain computer interfaces and neural networks. My real interests include reading, Magic the Gathering, ancient history, specially the origins of christianism and helenism, and playing music.
+
+I am currently working in my PhD thesis, or at least, I should be.
+
+Mi libro favorito es La Regenta.
