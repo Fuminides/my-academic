@@ -15,3 +15,5 @@ header:
     ""
   image: ""
 ---
+
+List of the BsC Thesis directed/co-directed.
