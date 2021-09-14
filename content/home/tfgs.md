@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Trabajos de Fin de Grado/Bachelor Degree Projects'
+title: 'Bachelor Degree Projects'
 subtitle: ''
 
 content:
