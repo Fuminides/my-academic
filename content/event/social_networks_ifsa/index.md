@@ -13,7 +13,7 @@ summary: Presenting the Semantic Value, and an application to the Younger Edda
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 authors: []
 tags: []

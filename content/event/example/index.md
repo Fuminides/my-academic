@@ -13,7 +13,7 @@ summary: Presenting the EMF for BCI systems, and the topic itself to newcomers.
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 authors: []
 tags: []
