@@ -13,7 +13,7 @@ summary: Presenting the commitment based centrality measures.
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 authors: []
 tags: []
